@@ -17,7 +17,7 @@ const ResultAnalys = () => {
     setStudentId(e.target.value);
   };
   const handleResult = () => {
-    fetch(`http://localhost:5000/results/${studentId}`)
+    fetch(`https://floating-plains-03367.herokuapp.com/results/${studentId}`)
       .then((res) => res.json())
       .then((data) => setResult(data));
   };
