@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "math": "88",
+    "pysics": "92",
+    "chemistry": "55",
+    "biology": "85",
+    "english": "40"
+  },
+  {
+    "id": "2",
+    "math": "75",
+    "pysics": "42",
+    "chemistry": "95",
+    "biology": "52",
+    "english": "25"
+  },
+  {
+    "id": "3",
+    "math": "66",
+    "pysics": "19",
+    "chemistry": "93",
+    "biology": "40",
+    "english": "55"
+  },
+  {
+    "id": "4",
+    "math": "45",
+    "pysics": "70",
+    "chemistry": "57",
+    "biology": "15",
+    "english": "34"
+  },
+  {
+    "id": "5",
+    "math": "89",
+    "pysics": "46",
+    "chemistry": "70",
+    "biology": "82",
+    "english": "30"
+  },
+  {
+    "id": "6",
+    "math": "32",
+    "pysics": "12",
+    "chemistry": "22",
+    "biology": "16",
+    "english": "24"
+  },
+  {
+    "id": "7",
+    "math": "78",
+    "pysics": "15",
+    "chemistry": "45",
+    "biology": "33",
+    "english": "12"
+  },
+  {
+    "id": "8",
+    "math": "23",
+    "pysics": "45",
+    "chemistry": "17",
+    "biology": "22",
+    "english": "12"
+  },
+  {
+    "id": "9",
+    "math": "90",
+    "pysics": "95",
+    "chemistry": "84",
+    "biology": "97",
+    "english": "91"
+  },
+  {
+    "id": "10",
+    "math": "27",
+    "pysics": "44",
+    "chemistry": "33",
+    "biology": "55",
+    "english": "51"
+  }
+]
